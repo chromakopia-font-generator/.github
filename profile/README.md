@@ -6,7 +6,7 @@ About also: [CHROMAKOPIA VINYL](https://www.youtube.com/watch?v=dL6LM4DyzU8)
 
 ### How to Use Chromakopia Font Generator?
 
-Please Visit [Chromakopia Font Generator](https://chromakopia-font-generator.github.io/)
+Please Visit [Chromakopia Font Generator](https://chromakopia-font-generator.github.io/) or [Chromakopia Font Generator](https://chromakopia-font-generator.com/)
 
 ### Chromakopia Name Generator
 
